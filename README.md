@@ -1,5 +1,5 @@
 # Java installation instructions for Ubuntu
-Installation instructions for installing Oracle Java JDK 8 64-Bit on Ubuntu 16.04-20.10
+Installation instructions for installing Oracle Java JDK 8 64-Bit on Ubuntu 16.04-21.04
 
 1. Go to [Oracle's website](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) and download the latest Linux x64 Compressed Archive.
 2. Open Terminal and type `sudo mkdir  -p /opt/jdk`.
